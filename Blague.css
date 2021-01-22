@@ -1,0 +1,9 @@
+nav{
+    height: 50px;
+}
+nav #internal-link ul{
+    list-style-type: circle;
+}
+h1{
+    border: thistle;
+}
